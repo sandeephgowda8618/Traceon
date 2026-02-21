@@ -1,0 +1,12 @@
+[
+  {
+    "query_id": "ccfa494d-1da1-44dd-96e9-310ab80d5f74",
+    "target_file": "../test_data/positive/Recording.mov",
+    "face_score": 0.8421409726142883,
+    "cloth_score": 0.6722617149353027,
+    "face_quality": 0.976,
+    "final_score": 0.8081651210784913,
+    "decision": true,
+    "timestamp": "2026-02-21T12:34:41.860141+00:00"
+  }
+]
