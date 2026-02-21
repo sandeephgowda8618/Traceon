@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Data and models
+data/
+models/
+outputs/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configs
+*.yaml
+*.yml
+
+# Other
+volunteers/session_tokens.json
+volunteers/volunteer_registry.json
+blockchain/ledger.json
+
+# VS Code
+.vscode/
